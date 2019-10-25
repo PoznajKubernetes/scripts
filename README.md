@@ -1,2 +1,5 @@
 # scripts
-Scripts for automating manual work.
+
+## ExtendScript
+
+Contains stripts to automate Adobe Premiere Pro CC work.
